@@ -1,0 +1,242 @@
+{
+  "Geography": {
+    "question": [
+      "Indian city that is the capital of two states is",
+      "Largest State of India is",
+      "Capital city of India is ",
+      "Smallest State of India is",
+      "Taj Mahal is located at"
+    ],
+    "answer": [
+      1,
+      1,
+      2,
+      3,
+      2
+    ],
+    "options": [
+      [
+        "Chandigarh",
+        "Kolkata",
+        "Delhi",
+        "Banglore"
+      ],
+      [
+        "Rajasthan",
+        "Punjab",
+        "Goa",
+        "Bihar"
+      ],
+      [
+        "Jaipur",
+        "New Delhi",
+        "Chennai",
+        "Mumbai"
+      ],
+      [
+        "Rajasthan",
+        "Punjab",
+        "Goa",
+        "Bihar"
+      ],
+      [
+        "Lucknow",
+        "Agra",
+        "Bhopal",
+        "Delhi"
+      ]
+    ]
+  },
+  "History": {
+    "question": [
+      "Garuda was adopted as dynastic emblem after the imperial Guptas by",
+      "First Tirthankara in Jainism was",
+      "Play written by Harshavardhan is/are",
+      "Earliest example of Panchayatana style of temple was",
+      "In context of Mauryan administration, Chief treasury officer was regarded as"
+    ],
+    "answer": [
+      1,
+      1,
+      4,
+      1,
+      3
+    ],
+    "options": [
+      [
+        "Rashtrakutas",
+        "Western Chalukyas",
+        "Shilaharas",
+        "Chedis"
+      ],
+      [
+        "Rishabhdev",
+        "Parsavanath",
+        "Mahavira",
+        "Munisuvrata"
+      ],
+      [
+        "Nagananda",
+        "Ratnavali",
+        "Priyadarshika",
+        "All of these"
+      ],
+      [
+        "Dashavatara temple at Deogarh",
+        "Temple at Pathari",
+        "Shatrughneshwara temple at Bhubaneshwar",
+        "Lakshmana temple at Sirpur"
+      ],
+      [
+        "Samaharta",
+        "Paura",
+        "Sannidhata",
+        "Karmantika"
+      ]
+    ]
+  },
+  "Chemistry": {
+    "question": [
+      "Most chemically active substance is",
+      "Substance known as white gold is",
+      "The nucleus of an atom consists of",
+      "First metal used by humans was",
+      "Most commonly used bleaching agent is"
+    ],
+    "answer": [
+      2,
+      3,
+      3,
+      2,
+      3
+    ],
+    "options": [
+      [
+        "Chlorine",
+        "Flourine",
+        "Lithium",
+        "Iodine"
+      ],
+      [
+        "Nickel",
+        "Rhodium",
+        "Platinum",
+        "Palladium"
+      ],
+      [
+        "Electron and neutron",
+        "Electron and protons",
+        "Protons and neutrons",
+        "All of the above"
+      ],
+      [
+        "Iron",
+        "Copper",
+        "Gold",
+        "Bronze"
+      ],
+      [
+        "Alcohol",
+        "Carbon dioxide",
+        "Chlorine",
+        "Sodium chloride"
+      ]
+    ]
+  },
+  "Physics": {
+    "question": [
+      "Beam of light striking the reflecting surface is called",
+      "Band of seven colours is called",
+      "Name the type of mirror used as a backview mirror",
+      "The image formed by a camera and a simple microscope are respectively",
+      "Angle of incidence of a ray if the reflected ray is at an angle of 90 degree to the incident ray"
+    ],
+    "answer": [
+      2,
+      2,
+      3,
+      2,
+      2
+    ],
+    "options": [
+      [
+        "reflecting ray",
+        "incident ray",
+        "refracted ray",
+        "normal ray"
+      ],
+      [
+        "VIBGYOR",
+        "spectrum",
+        "dispersion",
+        "reflection"
+      ],
+      [
+        "Plane mirror",
+        "Concave mirror",
+        "Convex mirror",
+        "Any of these"
+      ],
+      [
+        "real and real",
+        "real and virtual",
+        "virtual and virtual",
+        "virtual and real"
+      ],
+      [
+        "60",
+        "45",
+        "90",
+        "180"
+      ]
+    ]
+  },
+  "General Knowledge": {
+    "question": [
+      "River carrying maximum quantity of water into sea is",
+      "The size, mass and density of which of the planet is very near to those of Earth",
+      "NASA sent robotic spacecraft messenger to study",
+      "Processes involved in the Wind erosion is/are",
+      "Volcano located in Indonesia is"
+    ],
+    "answer": [
+      2,
+      4,
+      3,
+      4,
+      2
+    ],
+    "options": [
+      [
+        "Nile",
+        "Amazon",
+        "Thames",
+        "Mississippi Missouri"
+      ],
+      [
+        "Mercury",
+        "Mars",
+        "Jupiter",
+        "Venus"
+      ],
+      [
+        "Saturn",
+        "Uranus",
+        "Mercury",
+        "Pulto"
+      ],
+      [
+        "Attrition",
+        "Abration",
+        "Deflation",
+        "All of the above"
+      ],
+      [
+        "Kilauea",
+        "Mt. Merapi",
+        "Mt. Etna",
+        "None of these"
+      ]
+    ]
+  }
+}

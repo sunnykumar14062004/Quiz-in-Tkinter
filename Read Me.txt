@@ -1,0 +1,19 @@
+
+     Good Internet Connection is required to run this application
+
+
+1.  Put all files in same folder
+
+
+2.  Insure all modules are installed
+
+     i.   Open command Prompt
+
+     ii.  Type the following command (each line at once) and hit enter
+
+              pip install pillow
+              pip install matplotlib
+              pip install captcha
+              pip install googletrans==3.1.0a0	
+              pip install playsound==1.2.2
+              pip install gtts	
